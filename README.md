@@ -20,4 +20,6 @@ var data = [1,1,1,1,1,2,2,2,2,1,1,1,3,3,3,3];
 
 var map = new HeatMap(data, colorCode(optional), 'heatMap');
 
+How video data analytics look like : 
+
 ![Screenshot](video.png)
