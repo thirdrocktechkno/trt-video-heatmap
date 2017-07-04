@@ -19,3 +19,5 @@ var colorCode = ['rgb(255, 245, 204)','rgb(255, 205, 143)','rgb(255, 155, 97)', 
 var data = [1,1,1,1,1,2,2,2,2,1,1,1,3,3,3,3];
 
 var map = new HeatMap(data, colorCode(optional), 'heatMap');
+
+![Screenshot](video.png)
